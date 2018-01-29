@@ -1,6 +1,6 @@
 def my_hash
   mars = {
-    "name" => "Mars"
+    "name" => "Mars",
     "like" => "Watermelon"
   }
 end
